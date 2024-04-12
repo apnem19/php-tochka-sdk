@@ -1,5 +1,5 @@
 {
-  "name": "lee-to/php-tochka-api-sdk",
+  "name": "kvash/php-tochka-sdk",
   "description": "Tochka bank API client for PHP",
   "keywords": ["tochka", "api"],
   "type": "library",
